@@ -1,4 +1,4 @@
-# Comandos
+# Comandos (stage 01)
 
 <!-- package.json -->
 1. `yarn init -y`
@@ -155,4 +155,6 @@ GITHUB_CLIENT_ID={client id}
 ```
 
 ## Retornar o profile do user
+
+...
 
